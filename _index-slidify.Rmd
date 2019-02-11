@@ -43,7 +43,7 @@ production cost for EPQ), and holding cost $H$ (defined as a percentage $F$ of
 unit cost, so $H = PF$)
 * Additionally, **EPQ** is a function of production rate (units produced per day) 
 $p$ and demand rate (daily demand) $r$
-* Derivations:  [EOQ](https://en.wikipedia.org/wiki/Economic_order_quantity#The_Total_Cost_function_and_derivation_of_EOQ_formula) | [EPQ](https://en.wikipedia.org/wiki/Economic_production_quantity#Total_Cost_function_and_derivation_of_EPQ_formula)
+* Derivations:  [EOQ](https://en.wikipedia.org/wiki/Economic_order_quantity#The_total_cost_function_and_derivation_of_EOQ_formula) | [EPQ](https://en.wikipedia.org/wiki/Economic_production_quantity#Total_cost_function_and_derivation_of_EPQ_formula)
 
 * EOQ:  $$Q^* = \sqrt{\frac{2CR}{H}} = \sqrt{\frac{2CR}{PF}}$$
 * EPQ:  $$Q^* = \sqrt{\frac{2CRp}{H(p - r)}}$$

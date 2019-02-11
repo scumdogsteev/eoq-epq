@@ -6,11 +6,11 @@ blockquote { font-size: 14px; }
 The **Economic Order Quantity (EOQ)** model is a classic model in production
 scheduling.  It results in the optimal order quantity that should be purchased 
 with each order to minimize the cost of holding excess inventory and the cost of 
-placing orders.  Its derivation can be found [here](https://en.wikipedia.org/wiki/Economic_order_quantity#The_Total_Cost_function_and_derivation_of_EOQ_formula).
+placing orders.  Its derivation can be found [here](https://en.wikipedia.org/wiki/Economic_order_quantity#The_total_cost_function_and_derivation_of_EOQ_formula).
 
 The **Economic Production Quantity (EPQ)** model is an extension of the EOQ 
 model that assumes that the company will produce its own inventory.  Its 
-derivation can be found [here](https://en.wikipedia.org/wiki/Economic_production_quantity#Total_Cost_function_and_derivation_of_EPQ_formula).
+derivation can be found [here](https://en.wikipedia.org/wiki/Economic_production_quantity#Total_cost_function_and_derivation_of_EPQ_formula).
 
 Assuming a company has the capability of either purchasing or producing its
 goods, the total annual cost of both the EOQ and EPQ models can be calculated
